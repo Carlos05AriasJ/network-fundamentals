@@ -6,7 +6,7 @@ Un desglose técnico detallado de los modelos de red principales, protocolos ese
 
 </div>
 
-## 🗺️ Modelos de Referencia OSI y TCP/IP
+## Modelos de Referencia OSI y TCP/IP
 
 <div align="justify">
   
@@ -27,13 +27,13 @@ Ambos modelos son formas distintas de representar la realización de una comunic
   3. Transporte
   4. Aplicación
 
-> 💡 **Enfoque técnico:** El modelo OSI separa en varias capas algunos conceptos que en el modelo TCP/IP están agrupados en una sola (las capas de sesión, presentación y aplicación de OSI se gupan por completo en la capa de aplicación de TCP/IP). Además, el modelo OSI está más orientado a entender las comunicaciones de red (aprendizaje), mientras que TCP/IP fue desarrollado específicamente para ser utilizado en Internet, siendo este el estándar implementado actualmente.
+> **Enfoque técnico:** El modelo OSI separa en varias capas algunos conceptos que en el modelo TCP/IP están agrupados en una sola (las capas de sesión, presentación y aplicación de OSI se gupan por completo en la capa de aplicación de TCP/IP). Además, el modelo OSI está más orientado a entender las comunicaciones de red (aprendizaje), mientras que TCP/IP fue desarrollado específicamente para ser utilizado en Internet, siendo este el estándar implementado actualmente.
 
 </div>
 
 ---
 
-## 🔍 Sistema de Nombres de Dominio (DNS) y Dirección IP
+## Sistema de Nombres de Dominio (DNS) y Dirección IP
 
 <div align="justify">
   
@@ -44,7 +44,7 @@ Ambos modelos son formas distintas de representar la realización de una comunic
 
 ---
 
-## 🔒 Mecánica de los Protocolos HTTP y HTTPS
+## Mecánica de los Protocolos HTTP y HTTPS
 
 <div align="justify">
   
@@ -55,7 +55,7 @@ Ambos modelos son formas distintas de representar la realización de una comunic
 
 ---
 
-## 🌐 Esquema del funcionamiento de una petición web
+## Esquema del funcionamiento de una petición web
 
 <div align="justify">
   
@@ -91,7 +91,7 @@ sequenceDiagram
 
 ---
 
-## 📌 Principales Conclusiones
+## Principales Conclusiones
 
 <div align="justify">
   
